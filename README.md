@@ -1,47 +1,216 @@
-<!--
-**marlonhanks/marlonhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
-Here are some ideas to get you started:
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   ⟦⟦  Δ U S T  ⌬  C O M P U T E  E N V I R O N M E N T  ⟧⟧          ║
+   ║                                                                       ║
+   ║   ⟦ build: 0.1-dev ⟧  ⟦ mode: bootstrap ⟧  ⟦ arch: unknown ⟧         ║
+   ║   ⟦ owner: marlon hanks ⟧  ⟦ domain: open.dust.llc ⟧                ║
+   ║   ⟦ daemon: dustd ⟧  ⟦ Δt: drifting ⟧                               ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ║
+║  ⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣿  ║
+║  ⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷  ║
+║  ⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟  ║
+║  ⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯  ║
+║  ⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽  ║
+║  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
-### Hi there 👋
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   ⟦ dustd ⟧  τ:init → κ:drop-priv → ν:listen → Φ:run                 ║
+   ║   ⟦ dustd ⟧  status: ⟂ stable? ∷ Ψ:unknown ∷ Ω:continuous            ║
+   ║                                                                       ║
+   ║   ┌─────────────────────────────────────────────────────────────┐     ║
+   ║   │  signals don't lie                                          │     ║
+   ║   │  people do                                                  │     ║
+   ║   │                                                             │     ║
+   ║   │  constraints  ⟂  opinion                                    │     ║
+   ║   │  execution    ⟂  promises                                   │     ║
+   ║   └─────────────────────────────────────────────────────────────┘     ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻  ║
+║  ⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿  ║
+║  ⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   dust> init                                                          ║
+   ║   ⟦ ok ⟧ compiler                                                     ║
+   ║   ⟦ ok ⟧ runtime                                                      ║
+   ║   ⟦ ok ⟧ protocol                                                     ║
+   ║   ⟦ ok ⟧ network                                                      ║
+   ║                                                                       ║
+   ║   ⟦ WARN ⟧ entropy spike detected                                     ║
+   ║   ⟦ WARN ⟧ ΔΦ drift non-zero                                          ║
+   ║   ⟦  OK  ⟧ execution continues                                        ║
+   ║                                                                       ║
+   ║   /* DO NOT MODIFY                                                    ║
+   ║    * this works                                                       ║
+   ║    * you don't know why                                               ║
+   ║    */                                                                 ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
-<h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">A passionate developer from the United States</h3>
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+║  ⟦ ΠΑΝΙC ⟧ unrecoverable state                                                ║
+║  EIP: 0x00000000                                                              ║
+║  HALT.                                                                        ║
+║                                                                                ║
+║  RECOVERY IMPOSSIBLE                                                          ║
+║  EXECUTION CONTINUES   ∴   (contradiction is a feature)                       ║
+║                                                                                ║
+║  by reading further you accept responsibility                                 ║
+║                                                                                ║
+║  01000100 01010101 01010011 01010100                                          ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
--->
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlonhanks" alt="marlonhanks" /></a> </p>
--->
-<p align="left"> <a href="https://twitter.com/tetcoin" target="blank"><img src="https://img.shields.io/twitter/follow/tetcoin?logo=twitter&style=for-the-badge" alt="kediacorp" /></a> </p> 
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   ╔═══════════════════════════════════════════════════════════════╗   ║
+   ║   ║                                                               ║   ║
+   ║   ║   ☉  M A R L O N   H A N K S                                  ║   ║
+   ║   ║                                                               ║   ║
+   ║   ║   Systems builder • Language designer • Distributed systems   ║   ║
+   ║   ║                                                               ║   ║
+   ║   ╚═══════════════════════════════════════════════════════════════╝   ║
+   ║                                                                       ║
+   ║   [🐦 @tetcoin](https://twitter.com/tetcoin)                          ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║                                                                                ║
+║   ⚡ ACTIVE SYSTEMS                                                             ║
+║                                                                                ║
+║   ┌─────────────────────────────────────────────────────────────────────┐      ║
+║   │  🧠  Dust Programming Language (DPL)                                │      ║
+║   │      language design • compiler • tooling                           │      ║
+║   │      ⟹ https://github.com/dustlang                                  │      ║
+║   │                                                                     │      ║
+║   │  ⚙️  Tetcore                                                        │      ║
+║   │      foundational systems & infrastructure                          │      ║
+║   │      ⟹ https://github.com/tetcore                                   │      ║
+║   │                                                                     │      ║
+║   │  🧬  XDV                                                            │      ║
+║   │      protocol & value-system exploration                            │      ║
+║   │      ⟹ https://github.com/xdv                                       │      ║
+║   │                                                                     │      ║
+║   │  🌐  Lite Protocol                                                  │      ║
+║   │      lightweight protocol & network architecture                    │      ║
+║   │      ⟹ https://github.com/liteprotocol                              │      ║
+║   └─────────────────────────────────────────────────────────────────────┘      ║
+║                                                                                ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
-- 🔭 I’m currently working on **[Tetcore](https://github.com/tetcore)**
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   🌐  GATEWAY                                                         ║
+   ║                                                                       ║
+   ║   Primary node: https://open.dust.llc                                 ║
+   ║                                                                       ║
+   ║   Research vectors:                                                   ║
+   ║   • Programming language design                                       ║
+   ║   • Compilers, runtimes, and execution models                         ║
+   ║   • Distributed systems & protocol architecture                       ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
-- 👯 I’m looking to collaborate on **[The Lite Protocol](https://github.com/liteprotocol)**
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+║   🛠  ARSENAL                                                              ║
+║                                                                                ║
+║   ┌─────────────────────────────────────────────────────────────────────┐      ║
+║   │  CORE SYSTEMS                                                       │      ║
+║   │  ⚙️  Rust  ⚙️  C++  ⚙️  C#  ⚙️  Go  ⚙️  Java                         │      ║
+║   │                                                                     │      ║
+║   │  RUNTIME & WEB                                                      │      ║
+║   │  ⚡ JavaScript  ⚡ Node.js  ⚡ Express  ⚡ Angular                    │      ║
+║   │                                                                     │      ║
+║   │  INFRASTRUCTURE                                                     │      ║
+║   │  🐳 Docker  🐧 Linux  🔄 Nginx  🐘 Postgres  🔴 Redis  🍃 MongoDB   │      ║
+║   │                                                                     │      ║
+║   │  CLOUD MATRIX                                                       │      ║
+║   │  ☁️  AWS  ☁️  Azure                                                 │      ║
+║   └─────────────────────────────────────────────────────────────────────┘      ║
+║                                                                                ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
-- 🤝 I’m looking for help with **[MetroDAO](https://github.com/metrodao)**
+   ╔═══════════════════════════════════════════════════════════════════════╗
+   ║                                                                       ║
+   ║   📊  TELEMETRY                                                       ║
+   ║                                                                       ║
+   ║   ![Metrics](https://metrics.lecoq.io/marlonhanks?template=classic    ║
+   ║   &isocalendar=1&people=1&activity=1&isocalendar.duration=half-year   ║
+   ║   &people.limit=24&activity.limit=5&activity.days=14                  ║
+   ║   &config.timezone=America%2FNew_York)                                ║
+   ║                                                                       ║
+   ╚═══════════════════════════════════════════════════════════════════════╝
 
-- 👨‍💻 All of my projects are available at **[https://core.tetcoin.org](https://core.tetcoin.org)**
-
-- 📝 I regularly write articles on **[The Dust Programming Language](https://github.com/dustlang)**
-
-- 💬 Ask me about **[The AtomicVM](https://github.com/atomicvm)**
-
-- 📫 How to reach me **support@dust.llc**
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
-
-![Metrics](https://metrics.lecoq.io/marlonhanks?template=classic&isocalendar=1&people=1&activity=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ║
+║  ⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣿  ║
+║  ⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷  ║
+║  ⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟  ║
+║  ⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯  ║
+║  ⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽⣾⣿⣷⣯⣟⣻⣽  ║
+║  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ║
+║                                                                                ║
+║   ⟦ EOF ⟧  ⟦ status: still running ⟧  ⟦ entropy: acceptable ⟧               ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
