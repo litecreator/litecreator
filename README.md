@@ -39,5 +39,5 @@
 ╔═════════════════════════════════════════════════════════════════════════╗
 ║ PANIC:0xΔΦ  HALT?FALSE  EOF?DEFERRED  CORE_DUMP:STREAMING  MODE:ITERATE ║
 ╚═════════════════════════════════════════════════════════════════════════╝
-║ NEW ARTIFACT? / ITERATE CURRENT? / INVOKE NEW ARTIST? ⟧
+║ NEW ARTIFACT? / ITERATE CURRENT? / INVOKE NEW ARTIST?                   ⟧
 ```
